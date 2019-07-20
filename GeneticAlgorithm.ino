@@ -50,7 +50,7 @@ int generationNOW[genCount][valCount];
 int generationFUTURE[genCount][valCount];
 /* Массив для значений fitness каждой "особи" */
 int fitVal[genCount];
-/* Массив для вероятностей окозаться "родителем" для каждой "особи" */ 
+/* Массив для вероятностей оказаться "родителем" для каждой "особи" */ 
 int parVal[genCount];
 /* Родители прошлой особи */
 int lastParOne = -1;
